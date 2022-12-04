@@ -7,6 +7,6 @@
 ## Краткое описание программы
 Программа определяет одного ли цвета введены клетки. Угрожает ли фигура расположенная на клетке с координатами (k,l) клетке с координатами (m,n). Можно ли выбранной фигурой за несколько ходов добраться до клетки с коордантами (m,n), находясь на (k,l)
 ## Тесты
-![image](https://user-images.githubusercontent.com/113791059/205505123-a48bd9b3-3878-49d1-a967-c3c42e813edc.png)
-![image](https://user-images.githubusercontent.com/113791059/205505154-c3b18bcf-0431-4e1d-875e-25cb01703cbb.png)
-![image](https://user-images.githubusercontent.com/113791059/205505189-9ce856e7-8e20-4a72-98f0-97f73e2a8673.png)
+![image](https://user-images.githubusercontent.com/113791059/205506164-d1f8162e-6743-4033-81b6-df2f8ff0c528.png)
+![image](https://user-images.githubusercontent.com/113791059/205506185-e5b6db88-26bf-4982-92d1-a2bca23f1495.png)
+!![image](https://user-images.githubusercontent.com/113791059/205506225-c4553263-e172-4b06-aeb8-8ffad7ceb097.png)
